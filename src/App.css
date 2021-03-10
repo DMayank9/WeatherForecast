@@ -1,0 +1,7 @@
+.App-header {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(20px + 1vmin);
+  align-items: center;
+}
